@@ -27,7 +27,6 @@ This applications uses information on per-stock day-to-day price and volume chan
 
 # Design
 
-| Figure 2: StockReports - Input Data and Results |
-|----------|
-|<img src="http://yuml.me/diagram/nofunky/activity/(start)->[Water]->(Fill Kettle)->(end)" /> |
-
+<!-- | Figure 2: StockReports - Input Data and Results |
+|----------| -->
+![Design Diagram](http://yuml.me/daddyjab/StockReports.png "Figure 2: StockReports - Input Data and Results")
