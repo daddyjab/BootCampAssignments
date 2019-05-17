@@ -29,7 +29,7 @@ This applications uses information on per-stock day-to-day price and volume chan
 
 # Design
 
-| Figure 2: StockReports - Input Data and Results |
+| Figure 2: StockReports - Design |
 |----------|
-| ![Design Diagram](http://yuml.me/daddyjab/StockReports.png "Figure 2: StockReports - Input Data and Results") |
+| ![Design Diagram](images/StockReports-Design-1.png "Figure 2: StockReports - Design - 1") |
 
