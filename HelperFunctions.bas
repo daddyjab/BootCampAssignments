@@ -1,3 +1,8 @@
+' StockReports
+' @Author Jeffery Brown (daddyjab)
+' @Date 2/2019
+' @File HelperFunctions.bas
+
 Attribute VB_Name = "HelperFunctions"
 
 Function ScreenUpdating(Optional AFlag As Boolean = True) As Boolean

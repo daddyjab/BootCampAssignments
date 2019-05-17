@@ -1,4 +1,13 @@
+' StockReports
+' @Author Jeffery Brown (daddyjab)
+' @Date 2/2019
+' @File StockReports.bas
+
 Attribute VB_Name = "StockReports"
+
+'This Excel VBA code generates stock performance reports
+'based upon stock information provided as input files
+
 'Indices for Input Values
 Const I_TICKER = 0
 Const I_DATE = 1
