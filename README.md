@@ -23,14 +23,13 @@ This applications uses information on per-stock day-to-day price and volume chan
 
 | Figure 1: StockReports - Input Data and Results |
 |----------|
-|<img src="images/StockReports-Screenshot.png" /> |
+| ![Screenshot](images/StockReports-Screenshot.png "Figure 1: StockReports - Input Data and Results") |
 
-![Screenshot](images/StockReports-Screenshot.png "Figure 1: StockReports - Input Data and Results")
+
 
 # Design
 
-<!-- | Figure 2: StockReports - Input Data and Results |
-|----------| -->
-![Design Diagram](http://yuml.me/daddyjab/StockReports.png "Figure 2: StockReports - Input Data and Results")
+| Figure 2: StockReports - Input Data and Results |
+|----------|
+| ![Design Diagram](http://yuml.me/daddyjab/StockReports.png "Figure 2: StockReports - Input Data and Results") |
 
-<img src="http://yuml.me/daddyjab/StockReports.png" />
