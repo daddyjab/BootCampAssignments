@@ -31,7 +31,5 @@ This applications uses information on per-stock day-to-day price and volume chan
 
 | Figure 2: StockReports - Design |
 |----------|
-| ![Design Diagram 1](images/StockReports-Design-1.png "Figure 2: StockReports - Design - 1") |
-| ![Design Diagram 2](images/StockReports-Design-2.png "Figure 2: StockReports - Design - 2") |
-| ![Design Diagram 3](images/StockReports-Design-3.png "Figure 3: StockReports - Design - 3") |
+| ![Design Diagram](images/StockReports-Design.png "Figure 2: StockReports - Design") |
 
